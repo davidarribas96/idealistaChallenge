@@ -1,0 +1,9 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.idealista.android.challenge.detail">
+
+    <application>
+        <activity android:name=".ui.DetailActivity"
+            android:theme="@style/AppTheme.Base">
+        </activity>
+    </application>
+</manifest>

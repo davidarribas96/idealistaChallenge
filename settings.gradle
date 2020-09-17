@@ -1,0 +1,2 @@
+include ':app', ':core', ':list',':detail'
+rootProject.name='Challenge'

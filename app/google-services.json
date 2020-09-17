@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "675839499197",
+    "firebase_url": "https://idealista-b994d.firebaseio.com",
+    "project_id": "idealista-b994d",
+    "storage_bucket": "idealista-b994d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675839499197:android:36a50a97c817d3c11550d4",
+        "android_client_info": {
+          "package_name": "com.idealista.android.challenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675839499197-bc9m80pb41id03p2obq8fhdl8uoc10dl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChdgeANPP8TWU5iUq5CO14_TbxVgDWuqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675839499197-bc9m80pb41id03p2obq8fhdl8uoc10dl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
